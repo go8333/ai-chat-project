@@ -1,0 +1,45 @@
+[10352:18160:0706/221831.607:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[16256:6428:0706/221832.005:WARNING:ui\gl\direct_composition_support.cc:1167] QueryInterface to IDCompositionDevice4 failed: 해당 인터페이스를 지원하지 않습니다. (0x80004002)
+[10352:18160:0706/221833.559:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[10352:18160:0706/221833.559:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.", source:  (0)
+[10352:18160:0706/221833.561:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.", source:  (0)
+[10352:18160:0706/221833.930:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[10352:18160:0706/221833.930:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.", source:  (0)
+[10352:18160:0706/221833.930:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'speaker-selection'.", source:  (0)
+[10352:18160:0706/221833.930:INFO:CONSOLE:0] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://claude.ai/isolated-segment.html (0)
+[10352:18160:0706/221833.949:INFO:CONSOLE:64] "[IsolatedSegment] Sending iframe_ready message", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.088:INFO:CONSOLE:18] "%c
+         &&&&&   &&&&&
+        &&&&&&&   &&&&&
+       &&&&&&&&&   &&&&&
+      &&&&  &&&&&   &&&&&
+     &&&&    &&&&&   &&&&&
+    &&&&&     &&&&&   &&&&&
+   &&&&&&&&&&&&&&&&&   &&&&&
+  &&&&&         &&&&&   &&&&&
+ &&&&&           &&&&&   &&&&&
+
+ We’re hiring! https://anthropic.com/careers font-family: Menlo, monospace; font-weight: bold; font-size: 14px; color: #cda177", source: https://claude.ai/_next/static/chunks/1426-8ae28bae9e18232c.js (18)
+[10352:18160:0706/221834.309:INFO:CONSOLE:0] "<meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">", source: https://claude.ai/new (0)
+[10352:18160:0706/221834.545:INFO:CONSOLE:64] "[IsolatedSegment] Sending iframe_ready message", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.590:INFO:CONSOLE:64] "[IsolatedSegment] Message received from parent [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.591:INFO:CONSOLE:64] "[IsolatedSegment] Processing message [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.591:INFO:CONSOLE:64] "[IsolatedSegment] init called [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.591:INFO:CONSOLE:64] "[IsolatedSegment] Loading analytics via analytics.js", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.591:INFO:CONSOLE:64] "[IsolatedSegment] Analytics loaded successfully [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.591:INFO:CONSOLE:64] "[IsolatedSegment] sendMessage called [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.592:INFO:CONSOLE:64] "[IsolatedSegment] Message sent to parent [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.593:INFO:CONSOLE:0] "Potential permissions policy violation: payment is not allowed in this document.", source:  (0)
+[10352:18160:0706/221834.959:INFO:CONSOLE:64] "[IsolatedSegment] Message received from parent [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.959:INFO:CONSOLE:64] "[IsolatedSegment] Processing message [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.959:INFO:CONSOLE:64] "[IsolatedSegment] Handling identify message [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.959:INFO:CONSOLE:64] "[IsolatedSegment] identify called [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.965:INFO:CONSOLE:64] "[IsolatedSegment] Message received from parent [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.965:INFO:CONSOLE:64] "[IsolatedSegment] Processing message [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.965:INFO:CONSOLE:64] "[IsolatedSegment] Handling identify message [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.965:INFO:CONSOLE:64] "[IsolatedSegment] identify called [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.969:INFO:CONSOLE:64] "[IsolatedSegment] Identify completed [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221834.970:INFO:CONSOLE:64] "[IsolatedSegment] Identify completed [object Object]", source: https://claude.ai/isolated-segment.html (64)
+[10352:18160:0706/221835.222:INFO:CONSOLE:1] "[Intercom] Launcher is disabled in settings or current page does not match display conditions", source: https://js.intercomcdn.com/frame-modern.b1fe21db.js (1)
+[10352:18160:0706/221839.603:INFO:CONSOLE:0] "Potential permissions policy violation: payment is not allowed in this document.", source:  (0)
+[10352:18160:0706/221946.050:INFO:CONSOLE:0] "<meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">", source: https://claude.ai/chat/c65fb855-24c6-456e-952b-ea3d945c2a11 (0)
